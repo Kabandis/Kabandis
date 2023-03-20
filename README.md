@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning JavaScript.
+🌱 I’m currently learning JavaScript and improving my HTML and CSS.
 
 
 # 🌐 Socials:
